@@ -1,0 +1,14 @@
+{
+  "_what": "HK Diamondz inventory rows (preview v1). Every page reads these rows. Placeholder rows hold the place of HK's real pieces: they show the card format only and are never presented as his pieces. In the live build these are back-end rows HK edits from his phone; a piece cannot be published without a stone_type.",
+  "fields": ["id", "piece", "category", "metal", "karat", "grams", "stone_type", "total_carat", "certificate", "price", "status", "photos", "video", "brand_note", "placeholder"],
+  "stone_types": ["Natural diamond", "Lab-grown diamond", "Moissanite", "None"],
+  "statuses": ["available", "held", "sold"],
+  "pieces": [
+    {"id": "p1", "piece": "Iced pendant", "category": "jewelry", "metal": "HK to add", "karat": null, "grams": null, "stone_type": null, "total_carat": null, "certificate": null, "price": "On request", "status": "available", "photos": [], "video": null, "brand_note": null, "placeholder": true},
+    {"id": "p2", "piece": "Cuban link chain", "category": "jewelry", "metal": "HK to add", "karat": null, "grams": null, "stone_type": null, "total_carat": null, "certificate": null, "price": "On request", "status": "available", "photos": [], "video": null, "brand_note": null, "placeholder": true},
+    {"id": "p3", "piece": "Tennis bracelet", "category": "jewelry", "metal": "HK to add", "karat": null, "grams": null, "stone_type": null, "total_carat": null, "certificate": null, "price": "On request", "status": "available", "photos": [], "video": null, "brand_note": null, "placeholder": true},
+    {"id": "p4", "piece": "Customised timepiece", "category": "timepieces", "metal": "HK to add", "karat": null, "grams": null, "stone_type": null, "total_carat": null, "certificate": null, "price": "On request", "status": "available", "photos": [], "video": null, "brand_note": "Customised by HK. Maker and model named honestly; not affiliated with the maker.", "placeholder": true},
+    {"id": "p5", "piece": "Customised timepiece", "category": "timepieces", "metal": "HK to add", "karat": null, "grams": null, "stone_type": null, "total_carat": null, "certificate": null, "price": "On request", "status": "available", "photos": [], "video": null, "brand_note": "Customised by HK. Maker and model named honestly; not affiliated with the maker.", "placeholder": true},
+    {"id": "p6", "piece": "Diamond-set frames", "category": "eyewear", "metal": "HK to add", "karat": null, "grams": null, "stone_type": null, "total_carat": null, "certificate": null, "price": "On request", "status": "available", "photos": [], "video": null, "brand_note": "Customised by HK. Not affiliated with the frame maker.", "placeholder": true}
+  ]
+}
